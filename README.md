@@ -11,14 +11,9 @@ L'objectif principal est de créer un tableau de bord pour identifier les pays r
 
 Exigences Clés 🔑
 
- Sélectionner et visualiser des indicateurs pertinents pour les trois domaines d'expertise.
- 
- PowerBI.
- 
- Blueprint. 
- 
- Mockups. 
-
+PowerBI.
+Blueprint. 
+Mockups. 
 Conclusion 🌟
 
 Ce projet de tableau de bord DWFA est une occasion exceptionnelle d'apprendre et de maîtriser Power BI tout en contribuant à une cause mondiale vitale : l'accès à l'eau potable. En développant ce tableau de bord interactif, vous affinerez vos compétences en visualisation de données et en analyse, tout en aidant à identifier les régions du monde qui ont le plus besoin de soutien.
