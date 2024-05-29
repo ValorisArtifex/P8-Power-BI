@@ -11,11 +11,12 @@ L'objectif principal est de créer un tableau de bord pour identifier les pays r
 
 Exigences Clés 🔑
 
-    Indicateurs Pertinents :
-    Sélectionner et visualiser des indicateurs pertinents pour les trois domaines d'expertise.
-    Outils :
+ Sélectionner et visualiser des indicateurs pertinents pour les trois domaines d'expertise.
+ 
  PowerBI.
+ 
  Blueprint. 
+ 
  Mockups. 
 
 Conclusion 🌟
