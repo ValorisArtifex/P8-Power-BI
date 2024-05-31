@@ -18,6 +18,6 @@ Conclusion 🌟
 
 Ce projet de tableau de bord DWFA est une occasion exceptionnelle d'apprendre et de maîtriser Power BI tout en contribuant à une cause mondiale vitale : l'accès à l'eau potable. En développant ce tableau de bord interactif, vous affinerez vos compétences en visualisation de données et en analyse, tout en aidant à identifier les régions du monde qui ont le plus besoin de soutien.
 
-Plongez dans ce projet, explorez les données, et faites une différence réelle avec vos compétences en Power BI ! 🚀💧
+Plongez dans ce projet, explorez les données, et faites une réelle différence avec vos compétences en Power BI ! 🚀💧
 
 Let's dive into the data together! 📊
