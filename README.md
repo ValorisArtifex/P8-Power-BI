@@ -1,4 +1,4 @@
-# Projet 8 OpenClassrrooms : DWFA Analyse de l'eau potable  🚀 
+# Projet: DWFA Analyse de l'eau potable  🚀 
 
 👋 Bonjour ! Je suis ravie de vous accueillir sur ce dépôt dédié à un projet de formation visant à créer un tableau de bord complet pour évaluer l'accès mondial à l'eau potable. 
 
